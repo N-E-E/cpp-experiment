@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Cpp_project\cpp-experiment\project2_sln\Queue.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.obj : error LNK2019: 无法解析的外部符号 "char const * __cdecl TestQUEUE(int &)" (?TestQUEUE@@YAPEBDAEAH@Z)，函数 main 中引用了该符号
+D:\Cpp_project\cpp-experiment\project2_sln\Test\TestQUEUE.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Cpp_project\cpp-experiment\project2_sln\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 1 个无法解析的外部命令

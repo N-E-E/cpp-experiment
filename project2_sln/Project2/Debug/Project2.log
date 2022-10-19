@@ -1,0 +1,4 @@
+﻿  Queue.cpp
+D:\Cpp_project\cpp-experiment\project2_sln\Queue.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cpp_project\cpp-experiment\project2_sln\Queue.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Project2.vcxproj -> D:\Cpp_project\cpp-experiment\project2_sln\Project2\Debug\Project2.exe
