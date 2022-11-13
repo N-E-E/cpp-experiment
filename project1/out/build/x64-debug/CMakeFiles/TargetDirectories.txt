@@ -1,3 +1,0 @@
-D:/Cpp_project/cpp-experiment/project1/out/build/x64-debug/CMakeFiles/project1.dir
-D:/Cpp_project/cpp-experiment/project1/out/build/x64-debug/CMakeFiles/edit_cache.dir
-D:/Cpp_project/cpp-experiment/project1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

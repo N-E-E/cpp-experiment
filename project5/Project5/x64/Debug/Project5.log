@@ -1,0 +1,10 @@
+﻿  moc Project5.h
+  moc point_dialog.h
+  file_widget.cpp
+  point_dialog.cpp
+  Project5.cpp
+  main.cpp
+  moc_file_widget.cpp
+  moc_Project5.cpp
+  moc_point_dialog.cpp
+  Project5.vcxproj -> D:\Cpp_project\cpp-experiment\project5\Project5\x64\Debug\Project5.exe
